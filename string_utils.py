@@ -1,7 +1,6 @@
-from equation_utils import split_by_capitals
 
 
-def split_before_uppercases(formula):
+def split_by_capitals(formula):
 start=0
 count=0
 elements=[]
