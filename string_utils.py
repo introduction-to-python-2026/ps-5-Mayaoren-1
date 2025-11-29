@@ -1,4 +1,4 @@
-
+from equation_utils import split_by_capitals
 
 
 def split_before_uppercases(formula):
